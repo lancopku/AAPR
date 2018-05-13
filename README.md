@@ -8,7 +8,7 @@ If you use this code for your research, please cite the paper this code is based
 ```
 @ARTICLE{2018arXiv180503977Y,
    author = {Pengcheng Yang and Xu Sun and Wei Li and Shuming Ma},
-    title = "{Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network}",
+    title = {Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network},
   journal = {ArXiv e-prints},
      year = {2018}
 }
