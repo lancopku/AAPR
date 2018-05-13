@@ -6,10 +6,11 @@
 If you use this code for your research, please cite the paper this code is based on: <a href="https://arxiv.org/abs/1805.03977">Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network</a>:
 
 ```
-@ARTICLE{2018arXiv180503977Y,
+@inproceedings{YangArXiv2018,
    author = {Pengcheng Yang and Xu Sun and Wei Li and Shuming Ma},
     title = {Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network},
   journal = {ArXiv e-prints},
-     year = {2018}
+     year = {2018},
+     volume = {1805.03977}
 }
 ```
