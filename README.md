@@ -6,7 +6,7 @@
 If you use this code for your research, please cite the paper this code is based on: <a href="https://arxiv.org/abs/1805.03977">Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network</a>:
 
 ```
-@inproceedings{YangArXiv2018,
+@inproceedings{YangACL2018,
    author = {Pengcheng Yang and Xu Sun and Wei Li and Shuming Ma},
    title = {Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network},
    booktitle = {{ACL} 2018},
