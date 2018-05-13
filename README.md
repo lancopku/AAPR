@@ -8,9 +8,9 @@ If you use this code for your research, please cite the paper this code is based
 ```
 @inproceedings{YangArXiv2018,
    author = {Pengcheng Yang and Xu Sun and Wei Li and Shuming Ma},
-    title = {Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network},
-     booktitle = {{ACL} 2018},
-     year = {2018},
-     volume = {1805.03977}
+   title = {Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network},
+   booktitle = {{ACL} 2018},
+   year = {2018},
+   volume = {1805.03977}
 }
 ```
