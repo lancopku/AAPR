@@ -12,6 +12,6 @@ If you use the code or the dataset for your research, please cite the paper:
    title = {Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network},
    booktitle = {{ACL} 2018},
    year = {2018},
-   volume = {1805.03977}
+   volume = {abs/1805.03977}
 }
 ```
